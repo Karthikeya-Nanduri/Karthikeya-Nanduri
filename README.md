@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthikeya-Nanduri
-- 👀 I’m interested in Netwroking with "cloud" and "cyber security"
-- 🌱 I’m currently learning how to use "Linux" distributions effectively for future development
+- 👀 I’m interested in Netwroking with "cloud" and "cybersecurity"
+- 🌱 Currently working on "problem-solving" and attacks in the interesting Cyber world.
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me out --> " karthikeyananduri409@gmail.com "
 - 😄 Pronouns: ...
